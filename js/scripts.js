@@ -413,7 +413,6 @@
         }
         $("#pmsgSubmit").removeClass().addClass(msgClasses).text(msg);
     }
-    
 
     /* Back To Top Button */
     // create the back to top button

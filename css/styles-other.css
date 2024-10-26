@@ -95,6 +95,9 @@ h6 {
 	color: #333;
 	font: 700 1rem/1.625rem "Montserrat", sans-serif;
 }
+.navbar-nav .nav-item .nav-link.page-scroll {
+    color: red !important;
+}
 
 .testimonial-text {
 	font-style: italic;
@@ -1687,3 +1690,4 @@ a:hover.back-to-top {
 	/* end of extra pages */
 
 /* end of min-width width 1200px */
+

@@ -99,6 +99,16 @@ h6 {
     color: red !important;
 }
 
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #505050;
+    padding: 8px;
+    text-align: left;
+}
+
 .testimonial-text {
 	font-style: italic;
 }

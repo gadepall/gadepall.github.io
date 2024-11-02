@@ -16,13 +16,12 @@ caption {
 	font-family: helvetica, sans-serif;
 	font-size: 14pt;
 	text-align: left;
-	text-align: left;
 }
 </style>
 </head>
 <body>
 <p></p><table cellspacing="0" cellpadding="3">
-<caption>VLSI</caption>
+<caption>hardware</caption>
 <tr>
 <td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Course No</td>
 <td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Name</td>
@@ -187,7 +186,7 @@ caption {
 </tr>
 </table>
 <p></p><table cellspacing="0" cellpadding="3">
-<caption>AI-ML</caption>
+<caption>software</caption>
 <tr>
 <td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Course No</td>
 <td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Name</td>

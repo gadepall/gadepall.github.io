@@ -16,6 +16,7 @@ caption {
 	font-family: helvetica, sans-serif;
 	font-size: 14pt;
 	text-align: left;
+	font-weight: bold;
 }
 </style>
 </head>
@@ -56,12 +57,6 @@ caption {
 <td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">AI-ML</td>
 <td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Python, Optimiztion, Matrices, Probability, Signals and Circuits</td>
 <td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">3 months</td>
-<td  valign="center"  align="center"  style=" font-size:11pt; color:#444444; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;"><font color="#444444">&#8377; 60000</font></td>
-</tr>
-<tr>
-<td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Semester Project</td>
-<td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">As per project requirement</td>
-<td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">1 semester</td>
 <td  valign="center"  align="center"  style=" font-size:11pt; color:#444444; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;"><font color="#444444">&#8377; 60000</font></td>
 </tr>
 </table>

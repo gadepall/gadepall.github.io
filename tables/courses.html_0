@@ -16,12 +16,13 @@ caption {
 	font-family: helvetica, sans-serif;
 	font-size: 14pt;
 	text-align: left;
+	text-align: left;
 }
 </style>
 </head>
 <body>
 <p></p><table cellspacing="0" cellpadding="3">
-<caption>Hardware</caption>
+<caption>VLSI</caption>
 <tr>
 <td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Course No</td>
 <td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Name</td>
@@ -186,7 +187,7 @@ caption {
 </tr>
 </table>
 <p></p><table cellspacing="0" cellpadding="3">
-<caption>Software</caption>
+<caption>AI-ML</caption>
 <tr>
 <td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Course No</td>
 <td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Name</td>
@@ -285,96 +286,6 @@ caption {
 <td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Android</td>
 <td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">NP80</td>
 <td  style=""></td>
-</tr>
-</table>
-<p></p><table cellspacing="0" cellpadding="3">
-<caption>Class 10</caption>
-<tr>
-<td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Course No</td>
-<td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Name</td>
-<td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Syllabus</td>
-<td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Duration (Hours)</td>
-<td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Cost/person</td>
-</tr>
-<tr>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">NP1000</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Matrices and Applications</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Coordinate Geometry, Linear Equations</td>
-<td  valign="bottom"  align="right"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">2</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; color:#444444; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;"><font color="#444444">&#8377; 500</font></td>
-</tr>
-<tr>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">NP1001</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Probability</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Axioms, Applications</td>
-<td  valign="bottom"  align="right"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">2</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; color:#444444; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;"><font color="#444444">&#8377; 500</font></td>
-</tr>
-<tr>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">NP1002</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Discrete Mathematics</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Progressions, Rational and Irrational Numbers</td>
-<td  valign="bottom"  align="right"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">2</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; color:#444444; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;"><font color="#444444">&#8377; 500</font></td>
-</tr>
-<tr>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">NP1003</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Trigonometry</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Trigonometry, Triangles</td>
-<td  valign="bottom"  align="right"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">2</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; color:#444444; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;"><font color="#444444">&#8377; 500</font></td>
-</tr>
-<tr>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">NP1004</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Nonlinear Polynomials</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Quadratic Equations, Polynomial Properties</td>
-<td  valign="bottom"  align="right"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">2</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; color:#444444; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;"><font color="#444444">&#8377; 500</font></td>
-</tr>
-<tr>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">NP1003</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Geometry</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Circles, Quadrilaterals</td>
-<td  valign="bottom"  align="right"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">2</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; color:#444444; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;"><font color="#444444">&#8377; 500</font></td>
-</tr>
-</table>
-<p></p><table cellspacing="0" cellpadding="3">
-<caption>Class 12</caption>
-<tr>
-<td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Course No</td>
-<td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Name</td>
-<td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Syllabus</td>
-<td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Duration (Hours)</td>
-<td  valign="center"  align="center"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Cost/person</td>
-</tr>
-<tr>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">NP120</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Linear Algebra</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Vector Algebra, Matrices, 3D geometry, Circles</td>
-<td  valign="bottom"  align="right"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">4</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; color:#444444; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;"><font color="#444444">&#8377; 4000</font></td>
-</tr>
-<tr>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">NP121</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Discrete Probability</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Axioms, Random Variables</td>
-<td  valign="bottom"  align="right"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">4</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; color:#444444; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;"><font color="#444444">&#8377; 4000</font></td>
-</tr>
-<tr>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">NP122</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Tangent and Normal</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Differentiation, Applications</td>
-<td  valign="bottom"  align="right"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">4</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; color:#444444; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;"><font color="#444444">&#8377; 4000</font></td>
-</tr>
-<tr>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">NP123</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Areas</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">Integration, Area under curves</td>
-<td  valign="bottom"  align="right"  style=" font-size:11pt; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;">4</td>
-<td  valign="bottom"  align="left"  style=" font-size:11pt; color:#444444; border-top:thin solid #505050; border-bottom:thin solid #505050; border-left:thin solid #505050; border-right:thin solid #505050;"><font color="#444444">&#8377; 4000</font></td>
 </tr>
 </table>
 </body>
